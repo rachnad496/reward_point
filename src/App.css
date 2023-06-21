@@ -1,0 +1,26 @@
+.rewards-table {
+  border-collapse: collapse;
+  width: 96%;
+  margin: 2%;
+  table-layout: fixed;
+}
+
+.rewards-table th,
+.rewards-table td {
+  border: 1px solid lightgrey;
+  padding: 8px;
+  text-align: left;
+  word-break: break-word;
+}
+.table-header{
+  background: lightgrey;
+}
+.table-data td:last-child{
+  font-weight: bold;
+}
+.heading{
+  width: 96%;
+  margin: 0 auto
+}
+
+
